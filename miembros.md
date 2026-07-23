@@ -26,5 +26,7 @@
 24. mcqueen
 25. mate
 26. dervidel
+27. dr.Doom
+28. Thanos
 
 
