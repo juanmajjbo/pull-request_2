@@ -25,5 +25,6 @@
 23. Deadshot
 24. mcqueen
 25. mate
+26. dervidel
 
 
