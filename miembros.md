@@ -28,5 +28,7 @@
 26. dervidel
 27. dr.Doom
 28. Thanos
+29. hlk rojo
+30. itachi
 
 
