@@ -20,7 +20,9 @@
 18. The Penguin
 19. Talia al Ghul
 20. Lady Shiva
-21. Giganta
+21. hulk
 22. Deadshot
 23. mcqueen
 24. mate
+
+
